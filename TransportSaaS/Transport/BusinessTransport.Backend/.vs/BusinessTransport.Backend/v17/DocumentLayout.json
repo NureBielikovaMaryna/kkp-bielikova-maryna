@@ -1,0 +1,613 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Games\\Transport\\BusinessTransport.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\models\\viewhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\models\\viewhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\models\\routestop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\models\\routestop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\models\\tripinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\models\\tripinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\dtos\\addviewhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\dtos\\addviewhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\dtos\\editroutestopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\dtos\\editroutestopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\dtos\\editstationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\dtos\\editstationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\dtos\\edittraindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\dtos\\edittraindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\dtos\\assigndriverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\dtos\\assigndriverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\dtos\\activateaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\dtos\\activateaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Migrations\\20260501185435_FinalProArchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessTransport.Backend\\Migrations\\20260501185435_FinalProArchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\dtos\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\dtos\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\dtos\\scheduledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\dtos\\scheduledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\dtos\\createtraindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\dtos\\createtraindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\dtos\\createcompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\dtos\\createcompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\dtos\\createdriverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\dtos\\createdriverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\dtos\\stationandroutedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\dtos\\stationandroutedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\dtos\\checkemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\dtos\\checkemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\businesstransport.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\businesstransport.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|d:\\games\\transport\\businesstransport.backend\\businesstransport.backend\\migrations\\20260501185938_initialpromigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB51F7F5-DCDC-4A58-B3BB-590D6C615816}|BusinessTransport.Backend\\BusinessTransport.Backend.csproj|solutionrelative:businesstransport.backend\\migrations\\20260501185938_initialpromigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:51:04.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DriverController.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Controllers\\DriverController.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Controllers\\DriverController.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Controllers\\DriverController.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Controllers\\DriverController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAmwGoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T21:33:12.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAAAPMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:17:31.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OwnerController.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Controllers\\OwnerController.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Controllers\\OwnerController.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Controllers\\OwnerController.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Controllers\\OwnerController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:49:03.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewHistory.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\ViewHistory.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Models\\ViewHistory.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\ViewHistory.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Models\\ViewHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:50:13.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Models\\UserRole.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\UserRole.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:45:29.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteStop.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\RouteStop.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Models\\RouteStop.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\RouteStop.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Models\\RouteStop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:48:35.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Models\\User.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\User.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:40:51.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TripInstance.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\TripInstance.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Models\\TripInstance.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\TripInstance.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Models\\TripInstance.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T17:51:56.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Train.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\Train.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Models\\Train.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\Train.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Models\\Train.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:47:01.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Station.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\Station.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Models\\Station.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\Station.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Models\\Station.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:48:13.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Models\\Company.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\Company.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:42:05.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Models\\Booking.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Models\\Booking.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:49:29.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwG4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:24:09.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T21:18:39.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\DTOs\\UpdateProfileDto.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\UpdateProfileDto.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\DTOs\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T21:18:03.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PublicController.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Controllers\\PublicController.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Controllers\\PublicController.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Controllers\\PublicController.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Controllers\\PublicController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowDUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T20:27:02.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:36:41.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddViewHistoryDto.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\AddViewHistoryDto.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\DTOs\\AddViewHistoryDto.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\AddViewHistoryDto.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\DTOs\\AddViewHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T21:18:49.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditTrainDto.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\EditTrainDto.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\DTOs\\EditTrainDto.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\EditTrainDto.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\DTOs\\EditTrainDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T21:03:16.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditRouteStopDto.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\EditRouteStopDto.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\DTOs\\EditRouteStopDto.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\EditRouteStopDto.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\DTOs\\EditRouteStopDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T21:06:16.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Program.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Program.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAvwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:13:26.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditStationDto.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\EditStationDto.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\DTOs\\EditStationDto.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\EditStationDto.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\DTOs\\EditStationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T21:13:47.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AssignDriverDto.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\AssignDriverDto.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\DTOs\\AssignDriverDto.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\AssignDriverDto.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\DTOs\\AssignDriverDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:14:33.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ActivateAccountDto.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\ActivateAccountDto.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\DTOs\\ActivateAccountDto.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\ActivateAccountDto.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\DTOs\\ActivateAccountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:36:00.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20260501185938_InitialProMigration.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Migrations\\20260501185938_InitialProMigration.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Migrations\\20260501185938_InitialProMigration.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Migrations\\20260501185938_InitialProMigration.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Migrations\\20260501185938_InitialProMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T18:59:38.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260501185435_FinalProArchitecture.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Migrations\\20260501185435_FinalProArchitecture.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Migrations\\20260501185435_FinalProArchitecture.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Migrations\\20260501185435_FinalProArchitecture.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\Migrations\\20260501185435_FinalProArchitecture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T18:54:35.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateBookingDto.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\CreateBookingDto.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\DTOs\\CreateBookingDto.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\CreateBookingDto.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\DTOs\\CreateBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T18:02:20.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ScheduleDtos.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\ScheduleDtos.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\DTOs\\ScheduleDtos.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\ScheduleDtos.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\DTOs\\ScheduleDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T17:59:52.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateTrainDto.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\CreateTrainDto.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\DTOs\\CreateTrainDto.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\CreateTrainDto.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\DTOs\\CreateTrainDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:14:06.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateDriverDto.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\CreateDriverDto.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\DTOs\\CreateDriverDto.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\CreateDriverDto.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\DTOs\\CreateDriverDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:13:38.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateCompanyDto.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\CreateCompanyDto.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\DTOs\\CreateCompanyDto.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\CreateCompanyDto.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\DTOs\\CreateCompanyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:47:52.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StationAndRouteDtos.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\StationAndRouteDtos.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\DTOs\\StationAndRouteDtos.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\StationAndRouteDtos.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\DTOs\\StationAndRouteDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T20:38:19.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CheckEmailDto.cs",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\CheckEmailDto.cs",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\DTOs\\CheckEmailDto.cs",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\DTOs\\CheckEmailDto.cs",
+              "RelativeToolTip": "BusinessTransport.Backend\\DTOs\\CheckEmailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:35:03.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BusinessTransport.Backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-30T16:13:44.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BusinessTransport.Backend.csproj",
+              "DocumentMoniker": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\BusinessTransport.Backend.csproj",
+              "RelativeDocumentMoniker": "BusinessTransport.Backend\\BusinessTransport.Backend.csproj",
+              "ToolTip": "D:\\Games\\Transport\\BusinessTransport.Backend\\BusinessTransport.Backend\\BusinessTransport.Backend.csproj",
+              "RelativeToolTip": "BusinessTransport.Backend\\BusinessTransport.Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-30T15:13:53.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
